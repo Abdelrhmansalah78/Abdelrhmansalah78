@@ -36,10 +36,11 @@ A **Splunk Enterprise** training lab covering event searches, alerts, and dashbo
 
 Beyond the repositories above, I have documented additional **hands-on lab exercises**:
 
-- **[Windows System Hacking Lab](portfolio/windows-system-hacking/)** — Metasploit, controlled Meterpreter session, and Windows/Kali virtual machines; no unsupported exploitation or privilege-escalation claims.
-- **[Network Scanning & SMB Enumeration](portfolio/network-enumeration/)** — Nmap, enum4linux, and observed SMB accounts, groups, and share listings.
-- **[Bettercap Network Practice](portfolio/mitm-bettercap/)** — network discovery and ARP-spoofing setup exercises; traffic interception is *not* claimed as verified.
-- **[Bash Security Scripts](portfolio/security-scripts/)** — reviewed and corrected Netcat/Nmap, reverse DNS, and subdomain-enumeration Bash scripts with offline smoke tests.
+- **[Windows System Hacking Lab](https://github.com/Abdelrhmansalah78/windows-system-hacking-lab)** — Metasploit, controlled Meterpreter session, and Windows/Kali virtual machines; no unsupported exploitation or privilege-escalation claims.
+- **[Network Scanning & SMB Enumeration](https://github.com/Abdelrhmansalah78/network-scanning-enumeration)** — Nmap, enum4linux, and observed SMB accounts, groups, and share listings.
+- **[Bettercap Network Practice](https://github.com/Abdelrhmansalah78/mitm-bettercap-lab)** — network discovery and ARP-spoofing setup exercises; traffic interception is *not* claimed as verified.
+- **[Linux Apache Web Server Deployment Lab](portfolio/linux-apache-web-server-deployment/)** — hosted a template website using Apache HTTP Server and verified it locally on port 80; no public-cloud hosting claim.
+- **[Bash Security Scripts](https://github.com/Abdelrhmansalah78/bash-security-scripts)** — reviewed and corrected Netcat/Nmap, reverse DNS, and subdomain-enumeration Bash scripts with offline smoke tests.
 
 📂 **[Browse the Security Lab Portfolio](portfolio/README.md)**
 
