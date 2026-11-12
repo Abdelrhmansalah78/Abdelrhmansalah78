@@ -32,6 +32,19 @@ A packet-analysis training project with a **PCAPNG capture**, a technical report
 ### [SIEM Task — Splunk Enterprise](https://github.com/Abdelrhmansalah78/SIEM-TASK)
 A **Splunk Enterprise** training lab covering event searches, alerts, and dashboards, with a linked video walkthrough.
 
+## 🔐 Offensive Security Lab Portfolio
+
+Beyond the repositories above, I have documented additional **hands-on lab exercises**:
+
+- **[Windows System Hacking Lab](portfolio/windows-system-hacking/)** — Metasploit, controlled Meterpreter session, and Windows/Kali virtual machines; no unsupported exploitation or privilege-escalation claims.
+- **[Network Scanning & SMB Enumeration](portfolio/network-enumeration/)** — Nmap, enum4linux, and observed SMB accounts, groups, and share listings.
+- **[Bettercap Network Practice](portfolio/mitm-bettercap/)** — network discovery and ARP-spoofing setup exercises; traffic interception is *not* claimed as verified.
+- **[Bash Security Scripts](portfolio/security-scripts/)** — reviewed and corrected Netcat/Nmap, reverse DNS, and subdomain-enumeration Bash scripts with offline smoke tests.
+
+📂 **[Browse the Security Lab Portfolio](portfolio/README.md)**
+
+> Walkthrough recordings are externally hosted on Google Drive; access may depend on sharing settings. Only authorized educational test environments are documented.
+
 ## 🎓 Education & Training
 
 - **B.Sc. in Computer Science (in progress)** — Benha National University
