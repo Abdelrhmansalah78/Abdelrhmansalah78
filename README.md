@@ -1,62 +1,108 @@
 # Hi, I'm Abdelrhman Salah 👋
 
-**Computer Science Student | Aspiring DevSecOps Engineer | Cybersecurity Background**
+**Aspiring DevSecOps Engineer | Cybersecurity & Penetration Testing | Computer Science Student**
 
-I'm a fourth-year Computer Science student at **Benha National University**, specializing in Software and Application Development. My focus is shifting toward **DevSecOps**: bringing security into development workflows, automation, and software delivery.
+I'm a fourth-year Computer Science student at **Benha National University**, specializing in Software and Application Development.
 
-My cybersecurity training includes hands-on labs in network reconnaissance, vulnerability assessment, packet analysis, and SIEM monitoring. I'm currently building on that foundation through DevSecOps training.
+My background is in cybersecurity, with hands-on experience in network reconnaissance, vulnerability assessment, penetration testing labs, security monitoring, and Linux administration.
 
-## 🔎 What I'm Working Toward
+I'm currently expanding my skills in **DevSecOps, automation, and secure software delivery**, combining my security background with development and infrastructure practices.
 
-- **DevSecOps:** learning how security fits into CI/CD pipelines, infrastructure, and application delivery
-- **Automation:** improving my Python, Bash, and Git workflows
-- **Security engineering:** connecting vulnerability assessment and secure development practices
-- **Practical projects:** documenting labs with clear evidence, limitations, and reproducible steps
+## 🛠️ Technical Skills
 
-## 🧰 Skills & Tools
+**Cybersecurity & Offensive Security**
+- Nmap, Nessus, Metasploit Framework, Burp Suite, Nikto
+- Network Reconnaissance, Service Enumeration, Vulnerability Assessment
+- Security Reporting and Remediation Recommendations
 
-**Hands-on exposure:** Python · Bash · Linux · Git & GitHub · Nmap · Nessus · Wireshark · Splunk · Kali Linux
+**Systems & Networking**
+- Linux, Kali Linux, Apache HTTP Server
+- TCP/IP, DNS, HTTP/HTTPS, Wireshark
 
-**Currently learning / developing:** Docker · Kubernetes · CI/CD · DevSecOps practices
+**Programming & Automation**
+- Python, Bash Scripting
+- Git, GitHub
 
-> The lists distinguish tools I've used in training from technologies I'm still learning. I don't claim production experience with all of them.
+**Currently Learning**
+- DevSecOps Practices
+- Docker, Kubernetes, CI/CD
+- Security Automation and Secure Software Delivery
 
-## 📌 Featured Projects
+## 🚀 Selected Projects
 
-### [Network Vulnerability Assessment — Metasploitable2](https://github.com/Abdelrhmansalah78/vulnerability-scan)
-Authorized lab assessment using **Nmap** and **Nessus**, with scan evidence, findings analysis, and remediation recommendations. The report includes scanner findings; not all findings were manually validated.
+### 🔍 [Network Vulnerability Assessment](https://github.com/Abdelrhmansalah78/vulnerability-scan)
 
-### [Network Traffic Analysis](https://github.com/Abdelrhmansalah78/Network-Traffic-Analysis)
-A packet-analysis training project with a **PCAPNG capture**, a technical report, and a supporting screenshot.
+**Nmap · Nessus · Metasploitable2**
 
-### [SIEM Task — Splunk Enterprise](https://github.com/Abdelrhmansalah78/SIEM-TASK)
-A **Splunk Enterprise** training lab covering event searches, alerts, and dashboards, with a linked video walkthrough.
+Conducted network reconnaissance, service enumeration, and vulnerability assessment in an authorized lab environment.
 
-## 🔐 Offensive Security Lab Portfolio
+Reviewed and documented **123 Nessus scanner findings**, including 9 Critical and 6 High severity results, and prepared technical reports with remediation recommendations. Scanner findings were not all independently validated.
 
-Beyond the repositories above, I have documented additional **hands-on lab exercises**:
+### 🐧 [Linux Apache Web Server Deployment](https://github.com/Abdelrhmansalah78/linux-apache-web-server-deployment)
 
-- **[Windows System Hacking Lab](https://github.com/Abdelrhmansalah78/windows-system-hacking-lab)** — Metasploit, controlled Meterpreter session, and Windows/Kali virtual machines; no unsupported exploitation or privilege-escalation claims.
-- **[Network Scanning & SMB Enumeration](https://github.com/Abdelrhmansalah78/network-scanning-enumeration)** — Nmap, enum4linux, and observed SMB accounts, groups, and share listings.
-- **[Bettercap Network Practice](https://github.com/Abdelrhmansalah78/mitm-bettercap-lab)** — network discovery and ARP-spoofing setup exercises; traffic interception is *not* claimed as verified.
-- **[Linux Apache Web Server Deployment Lab](https://github.com/Abdelrhmansalah78/linux-apache-web-server-deployment)** — hosted a template website using Apache HTTP Server and verified it locally on port 80; no public-cloud hosting claim.
-- **[Bash Security Scripts](https://github.com/Abdelrhmansalah78/bash-security-scripts)** — reviewed and corrected Netcat/Nmap, reverse DNS, and subdomain-enumeration Bash scripts with offline smoke tests.
+**Linux · Apache HTTP Server · systemctl**
 
-📂 **[Browse the Security Lab Portfolio](portfolio/README.md)**
+Deployed a template-based website on a Linux Apache web server, managed the `httpd` service, and verified successful HTTP access within a local network.
 
-> Walkthrough recordings are externally hosted on Google Drive; access may depend on sharing settings. Only authorized educational test environments are documented.
+Includes a recorded deployment demonstration.
+
+### ⚙️ [Bash Security Scripts](https://github.com/Abdelrhmansalah78/bash-security-scripts)
+
+**Bash · Nmap · Netcat · DNS**
+
+Developed and improved educational Bash utilities for TCP port scanning, reverse DNS lookups, and subdomain enumeration.
+
+Includes input validation, dependency checks, documentation, and offline smoke tests.
+
+### 🖥️ [Windows System Hacking Lab](https://github.com/Abdelrhmansalah78/windows-system-hacking-lab)
+
+**Metasploit Framework · Meterpreter · Kali Linux · Windows VM**
+
+Configured a reverse TCP payload and Metasploit handler in a controlled virtual lab.
+
+Demonstrated a successful Meterpreter session following execution of a test file on the Windows virtual machine.
+
+### 🌐 [Network Scanning & SMB Enumeration](https://github.com/Abdelrhmansalah78/network-scanning-enumeration)
+
+**Nmap · enum4linux · SMB**
+
+Performed network and service enumeration against a Metasploitable lab target.
+
+Investigated exposed services and enumerated SMB users, groups, and network shares, with documented results.
+
+### 📊 [Splunk SIEM Lab](https://github.com/Abdelrhmansalah78/SIEM-TASK)
+
+**Splunk Enterprise · Security Monitoring · Log Analysis**
+
+Completed a hands-on SIEM lab covering log ingestion, event searches, alert configuration, and dashboard creation.
+
+Includes a video walkthrough demonstrating the lab activities.
+
+## 📂 Additional Security Labs
+
+- **[Network Traffic Analysis](https://github.com/Abdelrhmansalah78/Network-Traffic-Analysis)** — Packet capture investigation using Wireshark, supported by a PCAPNG file and technical report.
+- **[Bettercap Network Practice](https://github.com/Abdelrhmansalah78/mitm-bettercap-lab)** — Educational network discovery and ARP spoofing configuration exercise; successful traffic interception was not independently verified.
+
+[Explore My Security Lab Portfolio](https://github.com/Abdelrhmansalah78/Abdelrhmansalah78/blob/main/portfolio/README.md)
 
 ## 🎓 Education & Training
 
-- **B.Sc. in Computer Science (in progress)** — Benha National University
-- **DevSecOps diploma (in progress)** — IT Gate
-- Cybersecurity training and labs across penetration testing, network security, and SIEM fundamentals
+**Benha National University**
+- B.Sc. in Computer Science — Expected Graduation: 2027
+- Specialization: Software and Application Development
 
-## 🤝 Connect
+**IT Gate Academy**
+- DevSecOps Diploma — In Progress
+- Academic Cyber Security Penetration Testing Engineering Program — 320 Credit Hours, Very Good
 
-- [LinkedIn](https://www.linkedin.com/in/abdelrhman-salah334/)
-- [GitHub Projects](https://github.com/Abdelrhmansalah78?tab=repositories)
+**Digital Egypt Pioneers Initiative (DEPI)**
+- Vulnerability Analyst / Penetration Tester — Infrastructure and Security Track
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** [Abdelrhman Salah](https://www.linkedin.com/in/abdelrhman-salah334/)
+- **GitHub:** [Abdelrhmansalah78](https://github.com/Abdelrhmansalah78)
 
 ---
 
-*Building practical security skills, one documented project at a time.*
+*Building practical security skills through hands-on labs, documentation, and continuous learning.*
